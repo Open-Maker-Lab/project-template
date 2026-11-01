@@ -4,7 +4,7 @@
   2. Delete any section that does not apply to your project.
   3. Add folders only when you have something to put in them
      (for example: code/, docs/, hardware/, 3d-models/, images/).
-  4. Optional: add a Portuguese version as README.pt.md and keep the link below.
+  4. Optional: add a Portuguese version as README.pt.md. If you do not, delete the language line below.
 -->
 
 # [Project name]
