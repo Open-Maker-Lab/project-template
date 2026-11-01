@@ -1,0 +1,35 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editors (VSCodium / VS Code keeps shared settings in .vscode/ — remove the line below if you want to share them)
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Arduino / PlatformIO / ESP-IDF builds
+build/
+.pio/
+*.elf
+*.hex
+*.bin
+
+# Node.js
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Secrets (never commit Wi-Fi passwords or API keys)
+.env
+secrets.h
